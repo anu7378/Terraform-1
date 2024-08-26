@@ -1,0 +1,1 @@
+mybucket = "dev-devopsaws"
